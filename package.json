@@ -1,5 +1,5 @@
 {
-    "name": "pcsclite",
+    "name": "@msi.js/pcsclite",
     "version": "1.0.0",
     "engines": {
         "node": ">=4.8.0"
@@ -22,7 +22,7 @@
         "test": "mocha",
         "install": "node-gyp rebuild"
     },
-    "repository": "https://github.com/santigimeno/node-pcsclite.git",
+    "repository": "https://github.com/msi-dev/node-pcsclite.git",
     "keywords": [
         "pcsc",
         "pcsclite",
